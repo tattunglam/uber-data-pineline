@@ -10,4 +10,5 @@ The goal of this project is to perform data analytics on Uber data using various
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 - Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
-## Data Model
+## References:
+https://www.youtube.com/watch?v=WpQECq5Hx9g&t=517s
